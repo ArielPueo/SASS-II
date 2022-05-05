@@ -1,0 +1,14 @@
+@import "tipografías";
+@import "navbar";
+@import "button";
+
+$color: #43b5a0;
+
+.about {
+    padding: 100px 0px;
+    .about-box{
+        text-align: center;
+        padding: 0 40px;
+
+    }
+}
